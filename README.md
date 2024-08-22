@@ -138,7 +138,7 @@ The talk discusses monotone additive statistics, their definitions, properties, 
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Macroeconomics, Economic Growth, Firm Dynamics, Innovation, Entrepreneurship. | ![image-20240821224610439](信息检索.assets/image-20240821224610439.png) | [个人主页](https://www.ufukakcigit.com/) |                                                              | “[**What Happened to U.S. Business Dynamism?**](https://www.ufukakcigit.com/s/AA_fin.pdf)” (w/ Sina Ates). ***Journal of Political Economy\***, 2023, 131(8): 2059–2124. |
 | Macroeconomics; public finance; political economy            | ![image-20240821225432394](信息检索.assets/image-20240821225432394.png) | [个人主页](http://golosov.uchicago.edu/) |                                                              | “[Inequality, Business Cycles, and Monetary-Fiscal Policy](https://voices.uchicago.edu/golosov/files/2017/01/BEGS2.pdf)” (with A. Bhandari, D. Evans and T. Sargent)<br/>**Econometrica**, (2021), 89(6): 2559-2599 |
-| Time series econometrics; quantitative analysis of dynamic equilibrium models; asset pricing | ![image-20240821225646742](信息检索.assets/image-20240821225646742.png) | [个人主页](https://larspeterhansen.org/) | (1) struggling with a complex and uncertain future; (2) implications of macroeconomic uncertainty for market and social valuation; and (3) understanding investor beliefs through asset market data | [Robust Inattentive Discrete Choice](https://larspeterhansen.org/lph_research/new-working-paper-robust-inattentive-discrete-choice/) |
+| Time series econometrics; quantitative analysis of dynamic equilibrium models; asset pricing | ![image-20240821225646742](信息检索.assets/image-20240821225646742.png) | [个人主页](https://larspeterhansen.org/) | (1) struggling with a complex and uncertain future; <br />(2) implications of macroeconomic uncertainty for market and social valuation; and <br />(3)understanding investor beliefs through asset market data | [Robust Inattentive Discrete Choice](https://larspeterhansen.org/lph_research/new-working-paper-robust-inattentive-discrete-choice/) |
 
 ## [华盛顿大学](https://www.washington.edu/)
 
@@ -217,10 +217,34 @@ The talk discusses monotone additive statistics, their definitions, properties, 
 
 #### [推荐教授](https://www.math.columbia.edu/people/directory/)
 
-
-
-
-
 ### [统计学](http://stat.columbia.edu/)
 
 #### [推荐教授](https://stat.columbia.edu/department-directory/faculty/)
+
+| 研究领域                                                     | 推荐教授                                                     | 个人主页                                           | 研究内容                                                     | 最新文献                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 无监督学习 可解释的机器学习 图形模型 数据集成 高维统计 神经科学 生物医药 | ![image-20240822104251351](README.assets/image-20240822104251351.png) | [个人主页](https://genevera-allen.com/)            | **Genevera 团队开发了新的统计机器学习工具，帮助人们从庞大而复杂的数据集中做出可靠的发现，尤其是在神经科学和生物医学领域。** | [Cluster Quilting: Spectral Clustering for Patchwork Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIUd12QAAAAJ&sortby=pubdate&citation_for_view=gIUd12QAAAAJ:fEOibwPWpKIC) |
+| statistical machine learning and its applications, particularly neuroscience | ![image-20240822104601769](README.assets/image-20240822104601769.png) | [个人主页](https://stat.columbia.edu/~cunningham/) | 我的研究小组研究机器学习及其在科学和工业中的应用，特别是使用人工智能工具来理解生物智能和其他复杂过程。我是哥伦比亚大学的统计学教授，也是扎克曼心智脑行为研究所 和理论神经科学中心的研究员。 在哥伦比亚大学之前，我是剑桥大学机器学习小组的研究员。我拥有 斯坦福大学 电气工程博士学位和达特茅斯大学计算机科学学士学位。我还与多家公司合作并为它们提供咨询。<br/>了解有关我们的研究的更多信息， 哥伦比亚大学的机器学习、数据科学研究所、格罗斯曼心智统计中心、扎克曼心智大脑行为研究所和理论神经科学中心。 | [T Abe*, EK Buchanan*, G Pleiss, JP Cunningham (2023) "Pathologies of Predictive Diversity in Deep Ensembles" In Review.](https://arxiv.org/abs/2302.00704) |
+| 时间序列分析、金融时间序列建模、极值理论、具有环境应用的时空建模、应用概率和随机过程。 | ![image-20240822104827609](README.assets/image-20240822104827609.png) | [个人主页](https://stat.columbia.edu/~rdavis/)     | 我的研究兴趣主要集中在应用概率、时间序列和随机过程领域。我的论文主要研究一般平稳过程的极值。虽然我的研究兴趣集中在时间序列分析问题（时间序列模型的推断、估计、预测和一般属性）上，但极值理论仍然对我解决问题的方法有很大的影响。20 世纪 80 年代，Sid Resnick 和我撰写了一系列论文，为各种时间序列模型（包括线性模型和双线性模型的特殊情况）开发了极值理论。点过程技术在大部分工作中发挥了关键作用，它被用来为各种非极值统计数据（如样本均值、样本自协方差函数和重尾数据的样本自相关函数）建立极限理论。最近，Mikosch 和我将这些想法扩展到通常用于分析金融数据的非线性时间序列模型。广义自回归条件异方差 (GARCH) 模型和随机波动率模型就是属于这一一般理论的过程的例子。非高斯线性模型和非线性时间序列模型也是我研究中经常研究的对象。在前者中，我们考虑了非标准情况下的估计问题，例如非因果和/或不可逆 ARMA 模型和具有单位根的移动平均线。在非线性方面，我们研究了金融时间序列模型的属性，并提出了用于分析计数数据时间序列的模型。应用于环境问题的空间建模是我的一个新兴研究主题。虽然时间序列设置中使用的许多想法都延续到了这个新设置中，但空间数据带来了一系列新的建模挑战。在 EPA-STAR 资助的支持下，我们与 CSU 的同事一起成立了时空水生资源建模和分析计划 (STARMAP) 。 | [Davis, R.A. and Fernandes, L (2022). Indepdent Component Analysis with Heavy Tails using Distance Covariance. *Working paper*](http://www.stat.columbia.edu/~rdavis/papers/DavisFernandesDraft2022.pdf) |
+
+
+
+
+
+
+
+## Summary
+
+| 研究方向     | 研究内容                                                     | 简介                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **交叉方向** | 计算机方向                                                   | 数学与机器学习、数学和计算语言学                             |
+|              | 金融方向                                                     |                                                              |
+| **纯数学**   | [概率与金融数学](https://www.math.columbia.edu/research/probability-and-financial-mathematics/) | 自从1900年Bachelier开创了布朗运动的数学研究并理解其作为金融市场分析工具的重要性以来，概率就一直是金融研究的核心（在爱因斯坦发展他的布朗运动物理理论的五年前）。金融理论随着诺贝尔经济学奖授予马科维茨、夏普、米勒，然后是默顿和斯科尔斯，引起了全世界的关注，它试图理解金融市场是如何运作的，如何使它们更有效率，应该如何监管，以及它们如何帮助管理各种经济活动中固有的风险。在过去的 30 年里，这一理论变得越来越数学化，以至于金融中出现的问题现在不仅借鉴了随机分析、偏微分方程和控制理论的研究，而且还推动了随机分析、偏微分方程和控制理论的研究。与此同时，通常基于偏微分方程及其数值解的复杂分析和数值方法的发展，有助于提高这些发展在金融日常实践中的相关性。 |
+|              | 代数几何、几何分析、数学物理、数论                           |                                                              |
+| **统计学**   | 机器学习及生物医药                                           |                                                              |
+|              | 机器学习及神经学                                             |                                                              |
+|              | 金融学                                                       |                                                              |
+| **经济学**   |                                                              |                                                              |
+|              |                                                              |                                                              |
+| **应用数学** |                                                              |                                                              |
+
